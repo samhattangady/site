@@ -1,0 +1,52 @@
+baseURL = "https://chapliboy.com/"
+languageCode = "en-us"
+title = "chapliboy"
+theme="archie"
+copyright = "By Samarth Hattangady"
+# Code Highlight
+pygmentsstyle = "trac"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate=10 # articles per page
+
+[params]
+	mode="light" # color-mode → light,dark or auto
+	subtitle = "create code with joy. create joy with code"
+
+# Social Tags
+
+# [[params.social]]
+# name = "Twitter"
+# icon = "twitter"
+# url = "https://twitter.com/chapliboy"
+# 
+# [[params.social]]
+# name = "GitHub"
+# icon = "github"
+# url = "https://github.com/samhattangady"
+
+# Main menu Items
+
+# [[menu.main]]
+# name = "Home"
+# url = "/"
+# weight = 1
+
+[[menu.main]]
+name = "posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "about"
+url = "/about"
+weight = 3
+
+# [[menu.main]]
+# name = "Tags"
+# url = "/tags"
+# weight = 4
+
+[markup.goldmark.renderer]
+unsafe= true
