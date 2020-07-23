@@ -44,6 +44,17 @@ body{
   font-weight: bold;
 }
 
+.description {
+  margin-top: 0.2em;
+  margin-bottom: 0em;
+}
+
+.read-more {
+  width: 100%;
+  text-align: left;
+  font-size: 0.8em;
+}
+
 ::selection {
   background: var(--maincolor);
   color: #fff;
@@ -224,7 +235,7 @@ article .title {
 .site-description {
 display: flex;
 justify-content: space-between;
-font-size: 0.5em;
+font-size: 0.6em;
 margin-top: -0.5em;
 }
 .tags li::before{
