@@ -12,14 +12,14 @@
 				<section class="list-item">
 					<h3 class="title post-title"><a href="{{ .RelPermalink }}">{{.Title}}</a></h3>
 					<time class='title-date'>{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</time>
-					<br><div class="description">
+					<br><p class="description">
 						{{ if isset .Params "description" }}
 						{{ .Description }}
 						{{ else }}
 						{{ .Summary }}&hellip;
 						{{ end }}
-					</div>
-					<a href="{{ .RelPermalink }}">Read more ⟶</a>
+					</p>
+          <div class='read-more'><a href="{{ .RelPermalink }}">Read more ⟶</a></div>
 				</section>
 				{{ end }}
 				{{ template "partials/paginator.html" . }}
