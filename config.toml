@@ -1,7 +1,7 @@
 baseURL = "https://chapliboy.com/"
 languageCode = "en-us"
 title = "chapliboy"
-theme="archie"
+theme="archie_modified"
 copyright = "By Samarth Hattangady"
 # Code Highlight
 pygmentsstyle = "trac"
