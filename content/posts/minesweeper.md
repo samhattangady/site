@@ -1,6 +1,6 @@
 ---
 title: "Minesweeper. Another Love Story"
-description: "It started off as a harmless office fling. The situation slowly escalated. And now we find ourselves here."
+description: "It started off some clicks. How did it end up like this? It was only some clicks. It was only some clicks."
 date: 2018-09-15T21:15:36+05:30
 tags: []
 ---

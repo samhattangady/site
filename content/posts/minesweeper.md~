@@ -1,6 +1,6 @@
 ---
 title: "Minesweeper. Another Love Story"
-description: "It started off as a harmless office fling. The situation slowly escalated. And now we find ourselves here."
+description: "It started off some clicks. How did it end up like this. It was only some clicks. It was only some clicks."
 date: 2018-09-15T21:15:36+05:30
 tags: []
 ---
@@ -69,6 +69,6 @@ No matter how good you get at the game, you can never tell which board you will 
 
 ### At its heart, minesweeper is just like life.
 
-------
+---
 
 **On a side note...**: In this process, I accidentally ended up [getting a global high score](https://www.youtube.com/watch?v=xDKaxTliecA) by [writing a bot](https://github.com/samhattangady/nimbus2018) that solves minesweeper.
