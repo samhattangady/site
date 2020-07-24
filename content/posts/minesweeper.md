@@ -1,6 +1,6 @@
 ---
 title: "Minesweeper. Another Love Story"
-description: "It started off some clicks. How did it end up like this? It was only some clicks. It was only some clicks."
+description: "It started off with some clicks. How did it end up like this? It was only some clicks. It was only some clicks."
 date: 2018-09-15T21:15:36+05:30
 tags: []
 ---
