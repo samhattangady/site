@@ -1,5 +1,5 @@
 /* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300&family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Roboto+Mono&display=swap');
 /* Markdown */
 :root{
 --color500: #78909c;
@@ -16,6 +16,7 @@ html {
   font-family: 'Roboto Mono', monospace;
   font-size: 16px;
   line-height: 1.6em;
+  overflow-y: scroll;
 }
 body{
   display: block;
@@ -61,7 +62,7 @@ body{
 }
 
 p {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Barlow', sans-serif;
   line-height: 1.5;
   font-size: 1.1em;
 }
@@ -219,7 +220,7 @@ article .title {
 }
 
 .callout p {
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Barlow', sans-serif;
   margin: 0;
 }
 
@@ -238,8 +239,11 @@ justify-content: space-between;
 font-size: 0.6em;
 margin-top: -0.5em;
 }
+.tags li{
+  padding-left: 2.5em;
+}
 .tags li::before{
-  content: "🏷 ";
+  content: " - ";
 }
 .tags a{
   border-bottom: 3px solid var(--maincolor); 
