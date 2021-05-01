@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gamedev on chapliboy</title>
+    <link>https://chapliboy.com/tags/gamedev/</link>
+    <description>Recent content in gamedev on chapliboy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>By Samarth Hattangady</copyright>
+    <lastBuildDate>Sat, 01 May 2021 20:55:15 +0530</lastBuildDate>
+    
+	<atom:link href="https://chapliboy.com/tags/gamedev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing - codename: parabolae</title>
+      <link>https://chapliboy.com/posts/codename_parabolae/</link>
+      <pubDate>Sat, 01 May 2021 20:55:15 +0530</pubDate>
+      
+      <guid>https://chapliboy.com/posts/codename_parabolae/</guid>
+      <description>Over the months of February and March of 2021, I had the opportunity to take a vacation. I ended up spending those couple of months roaming across coastal South India. I had made the decision to not carry my laptop along with me, and overall I think that was the right call. But over that whole time, there was just that small voice at the back of my head, gently calling me back to some sort of software development.</description>
+    </item>
+    
+  </channel>
+</rss>
