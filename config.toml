@@ -43,10 +43,10 @@ name = "about"
 url = "/about"
 weight = 3
 
-# [[menu.main]]
-# name = "Tags"
-# url = "/tags"
-# weight = 4
+[[menu.main]]
+name = "tags"
+url = "/tags"
+weight = 4
 
 [markup.goldmark.renderer]
 unsafe= true
