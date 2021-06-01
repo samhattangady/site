@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>By Samarth Hattangady</copyright>
-    <lastBuildDate>Sat, 01 May 2021 20:55:15 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 15:42:05 +0530</lastBuildDate>
     
 	<atom:link href="https://chapliboy.com/tags/gamedev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Parabolae: A Prototype Served its Purpose</title>
+      <link>https://chapliboy.com/posts/paraobale_prototype_complete/</link>
+      <pubDate>Tue, 01 Jun 2021 15:42:05 +0530</pubDate>
+      
+      <guid>https://chapliboy.com/posts/paraobale_prototype_complete/</guid>
+      <description>As that ominous title suggests, I think I am done working on the parabolae prototype. Overall, the purpose of a prototype like that is to try and demonstrate the potential that a particular set of ideas can hold, and how they can be expressed in the form of a game.
+In my mind, the idea that I had for parabolae was something to do with space and geometry. The fact that you can fire a projectile and then recall it creates a contrast between parabolic curves and straight lines, and I was really interested in seeing what kind of interesting phenomena something like that would create.</description>
+    </item>
     
     <item>
       <title>Introducing - codename: parabolae</title>
