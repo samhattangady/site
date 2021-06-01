@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chapliboy</title>
+    <link>https://chapliboy.com/</link>
+    <description>Recent content on chapliboy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>By Samarth Hattangady</copyright>
+    <lastBuildDate>Tue, 01 Jun 2021 15:42:05 +0530</lastBuildDate>
+    
+	<atom:link href="https://chapliboy.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parabolae: A Prototype Served its Purpose</title>
+      <link>https://chapliboy.com/posts/paraobale_prototype_complete/</link>
+      <pubDate>Tue, 01 Jun 2021 15:42:05 +0530</pubDate>
+      
+      <guid>https://chapliboy.com/posts/paraobale_prototype_complete/</guid>
+      <description>As that ominous title suggests, I think I am done working on the parabolae prototype. Overall, the purpose of a prototype like that is to try and demonstrate the potential that a particular set of ideas can hold, and how they can be expressed in the form of a game.
+In my mind, the idea that I had for parabolae was something to do with space and geometry. The fact that you can fire a projectile and then recall it creates a contrast between parabolic curves and straight lines, and I was really interested in seeing what kind of interesting phenomena something like that would create.</description>
+    </item>
+    
+    <item>
+      <title>Introducing - codename: parabolae</title>
+      <link>https://chapliboy.com/posts/codename_parabolae/</link>
+      <pubDate>Sat, 01 May 2021 20:55:15 +0530</pubDate>
+      
+      <guid>https://chapliboy.com/posts/codename_parabolae/</guid>
+      <description>Over the months of February and March of 2021, I had the opportunity to take a vacation. I ended up spending those couple of months roaming across coastal South India. I had made the decision to not carry my laptop along with me, and overall I think that was the right call. But over that whole time, there was just that small voice at the back of my head, gently calling me back to some sort of software development.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://chapliboy.com/about/</link>
+      <pubDate>Wed, 22 Jul 2020 10:58:02 +0530</pubDate>
+      
+      <guid>https://chapliboy.com/about/</guid>
+      <description>Here Be Dragons.
+That&amp;rsquo;s what map makers used to mark the unmapped seas. I guess the idea was to scare off potential explorers from going to these literal uncharted waters.
+I don&amp;rsquo;t really know how effective a strategy like that would be. I mean if there was a chance to actually see dragons, I&amp;rsquo;m pretty sure that&amp;rsquo;s quite a strong calling for a lot of folks out there.
+Maybe that&amp;rsquo;s why it&amp;rsquo;s Here be Dragons and not Here be Paperwork.</description>
+    </item>
+    
+    <item>
+      <title>Adventures in Adding Responsiveness to a Web App</title>
+      <link>https://chapliboy.com/posts/responsive/</link>
+      <pubDate>Fri, 17 Jan 2020 21:56:37 +0530</pubDate>
+      
+      <guid>https://chapliboy.com/posts/responsive/</guid>
+      <description>The first rule of responsive web design is often shouted off the rooftops.
+Design for mobile first. Always mobile first. I know this rule. I&amp;rsquo;ve heard it several times. I&amp;rsquo;ve been rudely awoken from my sleep because of all the rooftop screaming. So what do you think I did when I was building my web based crossword app? I didn&amp;rsquo;t even bother considering for mobile..
+Maybe I am a rebel. Or maybe I just didn&amp;rsquo;t have enough faith in my ability to actually see a project through, and rather than getting stuck in the quagmire of figuring what exactly it means to design for mobile first, I decided I&amp;rsquo;d rather just dive in, and figure out all those other things along the way.</description>
+    </item>
+    
+    <item>
+      <title>Minesweeper. Another Love Story</title>
+      <link>https://chapliboy.com/posts/minesweeper/</link>
+      <pubDate>Sat, 15 Sep 2018 21:15:36 +0530</pubDate>
+      
+      <guid>https://chapliboy.com/posts/minesweeper/</guid>
+      <description>Originally published on Medium
+Her face was bathed in white light as she leaned closer to the monitor. “If this is a 1, then one of these two must be a mine…” she thought aloud, her fingers touching the screen.
+“And if you look at that tile…” he gently prodded.
+“This must be the mine!” she shrieked, her face now glowing brighter than the monitor.
+She was playing minesweeper. And she was loving it.</description>
+    </item>
+    
+  </channel>
+</rss>
