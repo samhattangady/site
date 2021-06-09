@@ -1,5 +1,5 @@
 /* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto+Slab:wght@300&display=swap');
 /* Markdown */
 :root{
 --color500: #78909c;
@@ -62,7 +62,7 @@ body{
 }
 
 p {
-  font-family: 'Barlow', sans-serif;
+  font-family: 'Roboto Slab', serif;
   line-height: 1.5;
   font-size: 1.1em;
 }
@@ -163,7 +163,7 @@ pre code {
   margin-bottom: 4em;
   margin-left: auto;
   margin-right: auto;
-  max-width: 800px;
+  max-width: 700px;
   padding: 0 1ch;
   word-wrap: break-word;
 }
@@ -220,7 +220,7 @@ article .title {
 }
 
 .callout p {
-  font-family: 'Barlow', sans-serif;
+  font-family: 'Roboto Slab', serif;
   margin: 0;
 }
 
@@ -236,11 +236,11 @@ article .title {
 .site-description {
 display: flex;
 justify-content: space-between;
-font-size: 0.6em;
+font-size: 0.53em;
 margin-top: -0.5em;
 }
 .tags li{
-  padding-left: 1.5em;
+  padding-left: 2.5em;
 }
 .tags li::before{
   content: " - ";
