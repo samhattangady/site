@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devlog on chapliboy</title>
+    <link>https://chapliboy.com/tags/devlog/</link>
+    <description>Recent content in devlog on chapliboy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>By Samarth Hattangady</copyright>
+    <lastBuildDate>Thu, 01 Jul 2021 17:28:24 +0530</lastBuildDate>
+    
+	<atom:link href="https://chapliboy.com/tags/devlog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adding Some Artwork</title>
+      <link>https://chapliboy.com/posts/moreart/</link>
+      <pubDate>Thu, 01 Jul 2021 17:28:24 +0530</pubDate>
+      
+      <guid>https://chapliboy.com/posts/moreart/</guid>
+      <description>This past month, I was mostly working on the ships prototype that was mentioned in the previous post. It seems to coming along quite well. The more I work on it, the more potential I see in the game, which is a stark departure from how the previous game was proceeding.
+So there comes a point in every prototype where we need to move past the overly simple programmer art and move to something a little more aesthetically appealing.</description>
+    </item>
+    
+    <item>
+      <title>Parabolae: A Prototype Served its Purpose</title>
+      <link>https://chapliboy.com/posts/prototype-complete/</link>
+      <pubDate>Tue, 01 Jun 2021 15:42:05 +0530</pubDate>
+      
+      <guid>https://chapliboy.com/posts/prototype-complete/</guid>
+      <description>As that ominous title suggests, I think I am done working on the parabolae prototype. Overall, the purpose of a prototype like that is to try and demonstrate the potential that a particular set of ideas can hold, and how they can be expressed in the form of a game.
+In my mind, the idea that I had for parabolae was something to do with space and geometry. The fact that you can fire a projectile and then recall it creates a contrast between parabolic curves and straight lines, and I was really interested in seeing what kind of interesting phenomena something like that would create.</description>
+    </item>
+    
+    <item>
+      <title>Introducing - codename: parabolae</title>
+      <link>https://chapliboy.com/posts/codename_parabolae/</link>
+      <pubDate>Sat, 01 May 2021 20:55:15 +0530</pubDate>
+      
+      <guid>https://chapliboy.com/posts/codename_parabolae/</guid>
+      <description>Over the months of February and March of 2021, I had the opportunity to take a vacation. I ended up spending those couple of months roaming across coastal South India. I had made the decision to not carry my laptop along with me, and overall I think that was the right call. But over that whole time, there was just that small voice at the back of my head, gently calling me back to some sort of software development.</description>
+    </item>
+    
+  </channel>
+</rss>
