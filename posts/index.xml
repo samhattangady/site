@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>By Samarth Hattangady</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 15:42:05 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 17:28:24 +0530</lastBuildDate>
     
 	<atom:link href="https://chapliboy.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adding Some Artwork</title>
+      <link>https://chapliboy.com/posts/moreart/</link>
+      <pubDate>Thu, 01 Jul 2021 17:28:24 +0530</pubDate>
+      
+      <guid>https://chapliboy.com/posts/moreart/</guid>
+      <description>This past month, I was mostly working on the ships prototype that was mentioned in the previous post. It seems to coming along quite well. The more I work on it, the more potential I see in the game, which is a stark departure from how the previous game was proceeding.
+So there comes a point in every prototype where we need to move past the overly simple programmer art and move to something a little more aesthetically appealing.</description>
+    </item>
     
     <item>
       <title>Parabolae: A Prototype Served its Purpose</title>
