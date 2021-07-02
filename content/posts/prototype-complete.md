@@ -1,7 +1,7 @@
 ---
 title: "Parabolae: A Prototype Served its Purpose"
 description: "What goes up, must come down. That's what gives projectiles their
-parabolic shape, and that seems to be what my game was destined to do as well."
+parabolic shape, and that seems to be what this prototype was destined to do as well."
 date: 2021-06-01T15:42:05+05:30
 tags: [gamedev, devlog]
 ---
